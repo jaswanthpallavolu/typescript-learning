@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.printWidth": 80,
+    "editor.tabSize": 4,
+    "[handlebars]": {
+      "editor.formatOnSave": false
+    },
+    "js/ts.implicitProjectConfig.checkJs": false
+}
